@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-(https://github-readme-stats.vercel.app/api?username=harsh244007)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=harsh244007">
 <br>
 
 <div onclick="parent.location='https://www.linkedin.com/in/harsh-patel244/'"><p>Let's Connect !!</p><img   src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></div>
