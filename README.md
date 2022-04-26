@@ -57,13 +57,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh244007&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p> 
-     
-<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
-   <p align="center">
+
    
-<a href="https://www.linkedin.com/in/harsh-patel244/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" />
-  </a>
    
 </p>  
      
@@ -73,4 +68,8 @@ Here are some ideas to get you started:
   <br>
 
 <div onclick="parent.location='https://www.linkedin.com/in/harsh-patel244/'"><p>Let's Connect !!</p><img   src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></div>
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+<a href="https://www.linkedin.com/in/harsh-patel244/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" />
+  </a>
+
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
