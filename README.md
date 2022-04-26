@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 <hr>
-<div><p>Let's Connect !!</p><img  src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></div>
+<div onclick="parent.location='https://www.linkedin.com/in/harsh-patel244/'"><p>Let's Connect !!</p><img   src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></div>
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
