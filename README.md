@@ -6,7 +6,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh244007&label=Profile%20views&color=0e75b6&style=flat" alt="harsh244007" />
 <a href="https://github.com/harsh244007?tab=followers"><img src="https://img.shields.io/github/followers/harsh244007?label=Followers&style=social" alt="GitHub Badge"></a>
  
-
+<div onclick="parent.location='https://www.linkedin.com/in/harsh-patel244/'"><p>Let's Connect !!</p><img   src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></div>
 
   
 <!--
