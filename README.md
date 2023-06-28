@@ -2,7 +2,7 @@
 <h1>I am Harsh Patel<h1>
   
   <h3>About me.<h3>
-<p>An aspiring Full-stack web developer specializing in MERN stack with good communication and collaborative skills, passionate about coding and learning new technologies. Looking forward to working as a Software developer engineer.<p>
+<p>I am working towards creating software that makes life easier and more meaningful..<p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh244007&label=Profile%20views&color=0e75b6&style=flat" alt="harsh244007" />
 <a href="https://github.com/harsh244007?tab=followers"><img src="https://img.shields.io/github/followers/harsh244007?label=Followers&style=social" alt="GitHub Badge"></a>
  <br>
