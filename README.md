@@ -1,7 +1,12 @@
 ### Hi there 👋
 <h1>I am Harsh Patel<h1>
   
-  <h3>About me.<h3>
+<p style="font-size: 1.2em; color: #0d9488;">
+  <a href="https://harsh-portfolio-flax.vercel.app/" style="color: #0d9488; text-decoration: none;" target="_blank">
+    <h3 style="color: inherit; margin: 0;">Connect me here.</h3>
+  </a>
+</p>
+
 <p>I am working towards creating software that makes life easier and more meaningful..<p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh244007&label=Profile%20views&color=0e75b6&style=flat" alt="harsh244007" />
 <a href="https://github.com/harsh244007?tab=followers"><img src="https://img.shields.io/github/followers/harsh244007?label=Followers&style=social" alt="GitHub Badge"></a>
