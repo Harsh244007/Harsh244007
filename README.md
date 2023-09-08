@@ -84,5 +84,13 @@ Here are some ideas to get you started:
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
   
-  
+    <script>
+      var currentTime = new Date();
+      var currentTimeString = encodeURIComponent(currentTime.toISOString());
+
+      var imgElements = document.querySelectorAll('img');
+      imgElements.forEach(function(imgElement) {
+        imgElement.src = imgElement.src + '?v=' + currentTimeString;
+      });
+    </script>  
   
