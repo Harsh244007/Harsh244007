@@ -60,7 +60,7 @@ Here are some ideas to get you started:
    <div align="center">  
      
    <p align="center">
-  <img align="center" src="https://get-latest-github-streak-nodejs.vercel.app/language/harsh244007" width=500 /></p>
+  <img align="center" src={`https://github-readme-stats.vercel.app/api/top-langs?username=Harsh244007&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&v=${Date now()}`} width=500 /></p>
  
    
 
