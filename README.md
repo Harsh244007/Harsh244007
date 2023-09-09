@@ -34,19 +34,26 @@ Here are some ideas to get you started:
 -->
 <br>
     <p>Tech Stack</p>
-  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+      <img src="https://img.shields.io/badge/java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E" alt="java"/>
+    <img src="https://img.shields.io/badge/springboot-323330?style=for-the-badge&logo=spring&logoColor=greeen" alt="springboot"/>
+    <img src="https://img.shields.io/badge/hibernate-323330?style=for-the-badge&logo=hibernate&logoColor=red" alt="hibernate"/>
+    <img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E" alt="typescript"/>
+    <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Redux-323330?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+    <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=green" alt="nodejs" />
+    <img src="https://img.shields.io/badge/deno-323330?style=for-the-badge&logo=deno&logoColor=orange" alt="deno" />
+    <img src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=lightgreen" alt="expressjs"/>
+    <img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=green" alt="mongodb"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+    <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=red" alt="html5"/>
+    <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=redblue" alt="css3"/>
+    <img src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=blue" alt="bootstrap"/>
+    <img src="https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=red" alt="npm"/>
+    <img src="https://img.shields.io/badge/yarn-323330?style=for-the-badge&logo=npm&logoColor=blue" alt="npm"/>
+    <img src="https://img.shields.io/badge/pnpm-323330?style=for-the-badge&logo=npm&logoColor=orange" alt="npm"/>
+      <img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=git&logoColor=red" alt="git"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+
 </p>
     <a href="https://www.linkedin.com/in/harsh-patel244/" target="blank">
 <div onclick="parent.location='https://www.linkedin.com/in/harsh-patel244/'" align="center"><p>Let's Connect !!</p><img   src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></div>
